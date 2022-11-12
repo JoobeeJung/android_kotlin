@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17239583333333333" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.17239583333333333" />
+        <entry key="test1_resource/src/main/res/drawable/round_button.xml" value="0.217" />
+        <entry key="test1_resource/src/main/res/layout-land/activity_main.xml" value="0.17768959435626103" />
+        <entry key="test1_resource/src/main/res/layout/activity_main.xml" value="0.20989583333333334" />
+        <entry key="test2_webview/src/main/res/layout/activity_main.xml" value="0.19583333333333333" />
+        <entry key="test3_androidx/src/main/res/layout/activity_main.xml" value="0.17239583333333333" />
+        <entry key="test3_androidx/src/main/res/layout/fragment_one.xml" value="0.17239583333333333" />
+        <entry key="test3_androidx/src/main/res/layout/fragment_three.xml" value="0.17239583333333333" />
+        <entry key="test3_androidx/src/main/res/layout/fragment_two.xml" value="0.17239583333333333" />
+        <entry key="test3_androidx/src/main/res/layout/item_recyclerview.xml" value="0.17239583333333333" />
+        <entry key="test3_androidx/src/main/res/layout/navigation_header.xml" value="0.17239583333333333" />
+        <entry key="test3_androidx/src/main/res/menu/menu_main.xml" value="0.17239583333333333" />
+        <entry key="test3_androidx/src/main/res/menu/menu_navigation.xml" value="0.10494791666666667" />
+        <entry key="test4_provider/src/main/res/layout/activity_main.xml" value="0.3770833333333333" />
+        <entry key="test5_fcm/src/main/res/layout/activity_main.xml" value="0.15833333333333333" />
+        <entry key="test_retrofit/src/main/res/drawable/divider.xml" value="0.181" />
+        <entry key="test_retrofit/src/main/res/layout/activity_main.xml" value="0.17239583333333333" />
+        <entry key="test_retrofit/src/main/res/layout/item_main.xml" value="0.14427083333333332" />
+        <entry key="test_retrofit/src/main/res/menu/menu_add.xml" value="0.17239583333333333" />
+        <entry key="test_retrofit/src/main/res/xml/network_security_config.xml" value="0.17239583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

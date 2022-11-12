@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 외부 앱과 파일 정보 공유..-->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="myfiles"
+        path="Android/data/com.kbstar.test4_provider/files/Pictures"/>
+</paths>

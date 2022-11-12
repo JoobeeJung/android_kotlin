@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test3_androidx</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+<!--    drawerlayout을 제어하기 위해서.. ActionBarDrawerToggle을 만들때.. 생성자 매개변수로 지정해야
+        리소스로 지정하게 되어있다.. 화면에 나오는 문자열은 아니다.. 상태를 표현하기 위한 문자열 -->
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
+</resources>

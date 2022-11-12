@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "AndroidKotlin"
+include ':app'
+//include ':KotlinTest'
+include ':test1_resource'
+include ':test2_webview'
+include ':test3_androidx'
+include ':test4_provider'
+include ':test5_fcm'
+include ':test_retrofit'
